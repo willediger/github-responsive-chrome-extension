@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Responsive Design",
+  "version": "0.0.1",
+  "description": "Modifies GitHub's design to be responsive for narrow width windows",
+  "manifest_version": 2
+}
